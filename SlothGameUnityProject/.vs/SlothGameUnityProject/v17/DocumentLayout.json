@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vogtg\\projetos\\Unity\\sloth-game\\SlothGameUnityProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82772F21-7CDA-4742-829C-8BA6B964F178}|Assembly-CSharp.csproj|c:\\users\\vogtg\\projetos\\unity\\sloth-game\\slothgameunityproject\\assets\\scripts\\enemies\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82772F21-7CDA-4742-829C-8BA6B964F178}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82772F21-7CDA-4742-829C-8BA6B964F178}|Assembly-CSharp.csproj|c:\\users\\vogtg\\projetos\\unity\\sloth-game\\slothgameunityproject\\assets\\scripts\\enemies\\enemypolite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82772F21-7CDA-4742-829C-8BA6B964F178}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemypolite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82772F21-7CDA-4742-829C-8BA6B964F178}|Assembly-CSharp.csproj|c:\\users\\vogtg\\projetos\\unity\\sloth-game\\slothgameunityproject\\assets\\scripts\\util\\tuple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82772F21-7CDA-4742-829C-8BA6B964F178}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\util\\tuple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82772F21-7CDA-4742-829C-8BA6B964F178}|Assembly-CSharp.csproj|c:\\users\\vogtg\\projetos\\unity\\sloth-game\\slothgameunityproject\\assets\\scripts\\levelloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82772F21-7CDA-4742-829C-8BA6B964F178}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82772F21-7CDA-4742-829C-8BA6B964F178}|Assembly-CSharp.csproj|c:\\users\\vogtg\\projetos\\unity\\sloth-game\\slothgameunityproject\\assets\\scripts\\gridmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82772F21-7CDA-4742-829C-8BA6B964F178}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gridmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82772F21-7CDA-4742-829C-8BA6B964F178}|Assembly-CSharp.csproj|c:\\users\\vogtg\\projetos\\unity\\sloth-game\\slothgameunityproject\\assets\\scripts\\titlescreenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82772F21-7CDA-4742-829C-8BA6B964F178}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\titlescreenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82772F21-7CDA-4742-829C-8BA6B964F178}|Assembly-CSharp.csproj|c:\\users\\vogtg\\projetos\\unity\\sloth-game\\slothgameunityproject\\assets\\scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82772F21-7CDA-4742-829C-8BA6B964F178}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\vogtg\\projetos\\Unity\\sloth-game\\SlothGameUnityProject\\Assets\\Scripts\\Enemies\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Enemy.cs",
+              "ToolTip": "C:\\Users\\vogtg\\projetos\\Unity\\sloth-game\\SlothGameUnityProject\\Assets\\Scripts\\Enemies\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T23:32:17.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyPolite.cs",
+              "DocumentMoniker": "C:\\Users\\vogtg\\projetos\\Unity\\sloth-game\\SlothGameUnityProject\\Assets\\Scripts\\Enemies\\EnemyPolite.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\EnemyPolite.cs",
+              "ToolTip": "C:\\Users\\vogtg\\projetos\\Unity\\sloth-game\\SlothGameUnityProject\\Assets\\Scripts\\Enemies\\EnemyPolite.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\EnemyPolite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T23:32:12.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tuple.cs",
+              "DocumentMoniker": "C:\\Users\\vogtg\\projetos\\Unity\\sloth-game\\SlothGameUnityProject\\Assets\\Scripts\\Util\\Tuple.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Util\\Tuple.cs",
+              "ToolTip": "C:\\Users\\vogtg\\projetos\\Unity\\sloth-game\\SlothGameUnityProject\\Assets\\Scripts\\Util\\Tuple.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Util\\Tuple.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T23:31:34.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "C:\\Users\\vogtg\\projetos\\Unity\\sloth-game\\SlothGameUnityProject\\Assets\\Scripts\\Coin.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Coin.cs",
+              "ToolTip": "C:\\Users\\vogtg\\projetos\\Unity\\sloth-game\\SlothGameUnityProject\\Assets\\Scripts\\Coin.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Coin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T23:31:29.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LevelLoader.cs",
+              "DocumentMoniker": "C:\\Users\\vogtg\\projetos\\Unity\\sloth-game\\SlothGameUnityProject\\Assets\\Scripts\\LevelLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelLoader.cs",
+              "ToolTip": "C:\\Users\\vogtg\\projetos\\Unity\\sloth-game\\SlothGameUnityProject\\Assets\\Scripts\\LevelLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelLoader.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T23:31:22.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GridManager.cs",
+              "DocumentMoniker": "C:\\Users\\vogtg\\projetos\\Unity\\sloth-game\\SlothGameUnityProject\\Assets\\Scripts\\GridManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GridManager.cs",
+              "ToolTip": "C:\\Users\\vogtg\\projetos\\Unity\\sloth-game\\SlothGameUnityProject\\Assets\\Scripts\\GridManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GridManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T23:31:16.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TitleScreenManager.cs",
+              "DocumentMoniker": "C:\\Users\\vogtg\\projetos\\Unity\\sloth-game\\SlothGameUnityProject\\Assets\\Scripts\\TitleScreenManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TitleScreenManager.cs",
+              "ToolTip": "C:\\Users\\vogtg\\projetos\\Unity\\sloth-game\\SlothGameUnityProject\\Assets\\Scripts\\TitleScreenManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TitleScreenManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T23:31:08.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
